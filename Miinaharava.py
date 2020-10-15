@@ -362,7 +362,6 @@ def maineistamainein():
         tila["nakyvakentta"] = nakyvakentta
         
         '''
-        TÄTÄ EI KÄYTETÄ TÄSSÄ OHJELMASSA MUTTA EN USKALLA KOKONAAN POISTAA SILTÄ VARALTA ETTÄ JOSSAIN VAIHEESSA TARVIIKIN LAITTAA TAKAISIN!
 
         jaljella = []
         for x in range(int(parametrit["leveys"])):
